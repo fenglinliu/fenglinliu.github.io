@@ -1197,6 +1197,7 @@ a.newer-posts:hover {
 /* - - - - - - - - - - Post Page Styles - - - - - - - - - - */
 .wrap-content {
   padding: 20px;
+  width: 95%;
 }
 
 .header-page {
@@ -1308,7 +1309,7 @@ a.newer-posts:hover {
 
 .menu-list li {
   height: 25rem;
-  width: 11%;
+  width: 15%;
   overflow-y: scroll;
   list-style: none;
   position: fixed;
