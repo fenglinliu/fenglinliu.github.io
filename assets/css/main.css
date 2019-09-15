@@ -1308,13 +1308,14 @@ a.newer-posts:hover {
 
 .menu-list li {
   height: 25rem;
+  width: 11%;
   overflow-y: scroll;
   list-style: none;
   position: fixed;
   right: 0;
   background: #fff;
   border: 1px solid #dedede;
-  text-align: center;
+  text-align: left;
 }
 .menu-list li a{
   width: 12rem;
