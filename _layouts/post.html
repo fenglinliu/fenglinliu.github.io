@@ -20,7 +20,7 @@ layout: main
         <div class="page-date"><span>{{page.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
       </header>
 
-      <div class="menu-list close">
+      <div class="menu-list">
         {% include toc.html html=content %}
       </div>
       {{content | markdownify}}
